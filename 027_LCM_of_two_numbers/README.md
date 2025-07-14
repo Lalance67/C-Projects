@@ -1,0 +1,1 @@
+This program calculates the Least Common Multiple (LCM) of two integers by first computing their GCD using the Euclidean algorithm. It then uses the formula LCM = (num1 × num2) / GCD to get the result.
