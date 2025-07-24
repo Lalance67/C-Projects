@@ -1,0 +1,1 @@
+This program demonstrates how to declare and work with 2D arrays in C. It initializes a 3×3 matrix of integers, calculates the number of rows and columns using sizeof, and prints the matrix in a grid format using nested loops. The commented section also shows how to assign values manually to a 2D array and calculate its dimensions dynamically.
