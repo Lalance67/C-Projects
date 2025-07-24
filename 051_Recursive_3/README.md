@@ -1,0 +1,1 @@
+This program uses recursion to perform a countdown from a given number to zero. It demonstrates how a recursive function can be used for repetitive tasks with a decreasing value until a base case is met.
