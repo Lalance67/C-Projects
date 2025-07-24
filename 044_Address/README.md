@@ -1,0 +1,1 @@
+This program demonstrates how to access and print both the value and memory address of an integer variable using & and printf() in C. The %p format specifier is used for printing addresses (with proper casting to void*), and %d for integer values.
