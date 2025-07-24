@@ -1,0 +1,1 @@
+This program checks if a number is prime using multiple helper functions. It handles special cases like numbers less than 1, even numbers, and performs division tests up to the square root of the number for efficiency.
