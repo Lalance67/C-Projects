@@ -1,0 +1,1 @@
+This program demonstrates the basics of pointers in C. It shows how to declare a pointer, assign it the address of a variable, and use it to access both the address and the value stored in that variable using the & and * ope
