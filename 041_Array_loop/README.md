@@ -1,0 +1,1 @@
+This program stores a list of product prices in an array and prints each price in a formatted dollar amount using a loop. It demonstrates how to calculate the array length using sizeof() and how to format floats.
