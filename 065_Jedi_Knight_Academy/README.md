@@ -1,0 +1,1 @@
+A Star Wars–themed application form that evaluates whether a user qualifies for the Jedi Knight Academy based on height, age, citizenship, and recommendations. Uses a function with multiple parameters and logical operators for decision-making.
