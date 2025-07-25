@@ -1,0 +1,1 @@
+This program checks if a number is an Armstrong number. It calculates the number of digits, raises each digit to that power, and sums them. If the result equals the original number, it prints "true"; otherwise, "false".
