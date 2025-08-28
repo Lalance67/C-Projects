@@ -1,0 +1,1 @@
+This program demonstrates how to use realloc() for dynamic arrays in C. It continuously accepts numbers from the user until 0 is entered, resizes the array as needed, stores the values, and then displays them before freeing memory.
